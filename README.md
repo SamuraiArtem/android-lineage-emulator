@@ -18,6 +18,15 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 1. Go to **[Releases](https://github.com/SamuraiArtem/android-lineage-emulator/releases)**  
 2. Download the latest release archive
 3. Extract and enter the directory
+4.For Linux, you need to install qemu-system-aarch64
+***Ubuntu / Debian / Linux Mint***
+```bash
+sudo apt install qemu-system-arm qemu-efi-aarch64
+```
+***Arch Linux / Manjaro***
+```bash
+sudo pacman -S qemu-system-aarch64
+```
 
 ### Running LineageOS
 ```bash
