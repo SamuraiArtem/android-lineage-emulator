@@ -79,7 +79,8 @@ For questions, support, or collaboration:
 This project utilizes unofficial LineageOS build for QEMU from:
  **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
 
-Special thanks to:
-- [jqssun](https://github.com/jqssun ) for excellent LineageOS builds for QEMU
-- LineageOS community for outstanding development
-- QEMU team for powerful virtualization technology
+## Credits
+
+- [LineageOS](https://github.com/lineageos)
+- [0xCAFEBABE](https://github.com/me-cafebabe)
+- [jqssun]([https://github.com/me-cafebabe])
