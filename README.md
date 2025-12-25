@@ -1,6 +1,6 @@
 # android-lineage-qemu
 
-![Android](https://img.shields.io/badge/Android-13%2B-green?logo=android)
+![Android](https://img.shields.io/badge/Android-16%2B-green?logo=android)
 ![QEMU](https://img.shields.io/badge/QEMU-aarch64-blue?logo=qemu)
 
 Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. This project enables Android emulation without physical devices. 
