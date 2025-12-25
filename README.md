@@ -12,6 +12,12 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 <img src="hyperos3-gsi-screenshot.png" width="200" alt="HyperOS 3 GSI">
 *HyperOS 3 GSI successfully booted*
 
+### Prerequisites
+- A processor with 8+ cores (if less, change the line -smp 8 in run_vm.*** to a different value)
+- Support OpenGL 2.0+
+- Linux/Windows 
+- At least 4 GB RAM (if less, change the line -m 4096 in run_vm.*** to a different value) and 15 GB free disk space 
+
 ## Getting Started
 
 1. Go to **[Releases](https://github.com/SamuraiArtem/android-lineage-emulator/releases)**  
