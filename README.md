@@ -27,11 +27,11 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 
 ***Ubuntu / Debian / Linux Mint***
 ```bash
-sudo apt install qemu-system-arm qemu-efi-aarch64
+sudo apt install qemu-system-aarch64
 ```
 ***Arch Linux / Manjaro***
 ```bash
-sudo pacman -S qemu-system-aarch64
+sudo pacman -S qemu-system-aarch64 qemu-desktop
 ```
 
 ### Running LineageOS
