@@ -83,4 +83,4 @@ This project utilizes unofficial LineageOS build for QEMU from:
 
 - [LineageOS](https://github.com/lineageos)
 - [0xCAFEBABE](https://github.com/me-cafebabe)
-- [jqssun]([https://github.com/me-cafebabe])
+- [jqssun](https://github.com/jqssun)
