@@ -19,6 +19,7 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 2. Download the latest release archive
 3. Extract and enter the directory
 4.For Linux, you need to install qemu-system-aarch64
+
 ***Ubuntu / Debian / Linux Mint***
 ```bash
 sudo apt install qemu-system-arm qemu-efi-aarch64
