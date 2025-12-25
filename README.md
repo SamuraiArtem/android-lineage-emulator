@@ -45,7 +45,7 @@ fastboot -s tcp:localhost:5554
 ```
 
 ### Running GSI
-✅ Confirmed working: **HyperOS 3**
+✅ Confirmed working: **[HyperOS3](https://t.me/mysticgsi/3778)**
 
 1. Rename your GSI image to `system.img` and place it in the same directory as `run_vm_gsi.sh` / `run_vm_gsi.bat`  
    (e.g. `HyperOS_3.img` → `system.img`)
