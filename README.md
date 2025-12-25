@@ -7,10 +7,10 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 
 ## Screenshots
 
-![LineageOS on QEMU](lineageos-qemu-screenshot.png)
+<img src="lineageos-qemu-screenshot.png" width="600" alt="LineageOS on QEMU">
 *LineageOS 20.0 running on QEMU with hardware acceleration*
 
-![HyperOS 3 GSI](hyperos3-gsi-screenshot.png)
+<img src="hyperos3-gsi-screenshot.png" width="600" alt="HyperOS 3 GSI">
 *HyperOS 3 GSI successfully booted*
 
 ## Getting Started
