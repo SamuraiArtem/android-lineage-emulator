@@ -43,6 +43,9 @@ Connect to the emulated device:
 adb connect localhost:5555
 fastboot -s tcp:localhost:5554
 ```
+### Install Gapps or Magisk
+
+Look in the repository **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
 
 ### Running GSI
 ✅ Confirmed working: **[HyperOS3](https://t.me/mysticgsi/3778)**
@@ -74,7 +77,7 @@ For questions, support, or collaboration:
  ## Build Sources
 
 This project utilizes unofficial LineageOS build for QEMU from:
-🔗 **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
+ **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
 
 Special thanks to:
 - [jqssun](https://github.com/jqssun ) for excellent LineageOS builds for QEMU
