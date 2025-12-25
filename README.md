@@ -13,15 +13,6 @@ Run LineageOS and GSI images on QEMU virtualization for aarch64 architecture. Th
 ![HyperOS 3 GSI](hyperos3-gsi-screenshot.png)
 *HyperOS 3 GSI successfully booted*
 
-## Build Sources
-
-This project utilizes unofficial LineageOS build for QEMU from:
-🔗 **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
-
-## Successfully Tested GSI Images
-
-**HyperOS 3** - Fully operational  
-
 ## Getting Started
 
 1. Go to **[Releases](https://github.com/SamuraiArtem/android-lineage-emulator/releases)**  
@@ -69,6 +60,11 @@ run_vm_gsi.bat
 
 For questions, support, or collaboration:
  **Telegram:** [@Qwekte](https://t.me/Qwekte )
+
+ ## Build Sources
+
+This project utilizes unofficial LineageOS build for QEMU from:
+🔗 **[jqssun/android-lineage-qemu](https://github.com/jqssun/android-lineage-qemu/)**
 
 Special thanks to:
 - [jqssun](https://github.com/jqssun ) for excellent LineageOS builds for QEMU
