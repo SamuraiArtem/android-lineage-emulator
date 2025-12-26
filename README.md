@@ -72,7 +72,7 @@ Look in the repository **[jqssun/android-lineage-qemu](https://github.com/jqssun
 run_vm_gsi.bat
 ```
 3. **First-time setup (required before GSI boot):**
-   - First, boot LineageOS using `./run_vm.sh` (or `run_vm.bat`)
+   - First, boot LineageOS using `./run_vm_gsi.sh` (or `run_vm_gsi.bat`)
    - In the VM: **Settings** → **Developer options** → **SELinux** → **Permissive**
    - Reboot → In boot menu: **Advanced options** → **Boot GSI from /dev/block/vdc**
 
