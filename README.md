@@ -45,7 +45,8 @@ or on Windows:
 ```bat
 run_vm.bat
 ```
-Enable **Settings > Low performance optimization > Enable low performance optimization**
+For weak PCs:
+Enable **Settings > Low performance optimization > Enable low performance optimization** 
 
 Connect to the emulated device:
 ```bash
