@@ -1,4 +1,4 @@
-# android-lineage-qemu
+# android-lineage-emulator
 
 ![Android](https://img.shields.io/badge/Android-16%2B-green?logo=android)
 ![QEMU](https://img.shields.io/badge/QEMU-aarch64-blue?logo=qemu)
