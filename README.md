@@ -73,7 +73,7 @@ run_vm_gsi.bat
 ```
 3. **First-time setup (required before GSI boot):**
    - First, boot LineageOS using `./run_vm_gsi.sh` (or `run_vm_gsi.bat`)
-   - In boot menu: **Settings** → **Developer options** → **SELinux** → **Permissive**
+   - In boot menu: **Settings**  → **SELinux** → **Permissive**
    - And In boot menu: **Advanced options** → **Boot GSI from /dev/block/vdc**
 
 > ⚠️ The GSI must be:  
